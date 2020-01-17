@@ -4,7 +4,7 @@
         private $hostname="mysql669.umbler.com";
         private $username="lucas.reichert";
         private $password="MySQL123";
-        private $dbname="sistemaPatrimonial";
+	private $dbname="mysql-reichert";
         private $con;
         private $port=41890;
         
