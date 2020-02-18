@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title> Cadastro de Responsável </title>
+        <title> Cadastro de Usuário </title>
         <link href="../css/bootstrap.css" rel="stylesheet">
         <script type="text/javascript" src="../js/batman.js"></script>
         <meta charset="UTF-8"/>

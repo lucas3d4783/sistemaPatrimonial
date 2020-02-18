@@ -1,12 +1,12 @@
 <?php
 
     class Database{
-        private $hostname="mysql669.umbler.com";
-        private $username="lucas.reichert";
-        private $password="MySQL123";
-	private $dbname="mysql-reichert";
+        private $hostname="192.168.57.3";
+        private $username="lucas";
+        private $password="MySQL123!";
+	private $dbname="sistemaPatrimonial";
         private $con;
-        private $port=41890;
+        private $port=3306;
         
         
         function __construct(){
