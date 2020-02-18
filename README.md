@@ -11,6 +11,7 @@ Para o desenvolvimento do sistema foi utilizado o SGBD MySQL; as linguagens PHP,
   <img src="prints/3.png" class="img-fluid" width="95%">
   <img src="prints/4.png" class="img-fluid" width="95%">
   <img src="prints/6.png" class="img-fluid" width="95%">
-  <img src="prints/8.png" class="img-fluid" width="95%">  
   <img src="prints/5.png" class="img-fluid" width="95%">
+  <img src="prints/8.png" class="img-fluid" width="95%">  
+  
 </div>
